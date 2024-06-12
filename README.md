@@ -1,5 +1,5 @@
 # 环境
-- torch=2.2.2
+- torch>=2.0.0
 - transformers==4.38.1
 - numpy
 - pandas
