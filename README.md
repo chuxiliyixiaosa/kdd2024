@@ -1,9 +1,9 @@
 # 环境
-torch=2.2.2
-transformers==4.38.1
-numpy
-pandas
-tqdm
+- torch=2.2.2
+- transformers==4.38.1
+- numpy
+- pandas
+- tqdm
 # 数据
 所有数据放在data目录下
 # 模型
