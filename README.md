@@ -13,3 +13,5 @@ tqdm
 - doc:将文章的title和abstract拼接到一起
 - 使用Linq-Embed-Mistral的huggingface主页上示例代码，将query和doc转向量
 - query使用余弦相似度往doc里召回出top20
+# 运行
+python main.py
